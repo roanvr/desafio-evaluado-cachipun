@@ -1,0 +1,17 @@
+#cachipunDiv {
+    padding: 20px;
+    background-color: rgb(239, 205, 160);
+    text-align: center;
+}
+.opciones {
+    line-height: 30px;
+    width: 5rem;
+
+}
+
+#playerText {
+    color: brown
+}
+#computerText {
+    color:rgb(43, 113, 116)
+}
